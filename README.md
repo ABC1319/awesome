@@ -106,18 +106,10 @@ github开源优质项目
 
 
 
-## 收藏
+## 油猴脚本
 
-<table> 
-        <tr>
-        <td>1</td>
-        <td><img src="https://st2.ai55.cc/site-icons/27fbeb65020636b57ac284f270fd6bb7d6aef78a2198edc81a62242d0e6bf922.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://github.com/spider-ios/autox-release" target="_blank">自媒体运营助手</a></td>
-        <td>网页自动化工具，油管等视频下载，一键搬家，视频多平台发布，一键发布到tiktok、小红书、快手、抖音、油管、B站等等平台，一个功能强大的自媒体运营工具，一键发布视频到多平台（快手、YouTube、小红书、美拍、哔哩哔哩等） 欢迎入群交流！</td>
-        <td></td>
-        <td><a href="https://github.com/spider-ios/autox-release" target="_blank">🔗</a></td>
-    </tr> 
-</table>
+1.网盘直链下载助手：https://github.com/syhyz1990/baiduyun
+2.LinkSwift：https://github.com/hmjz100/LinkSwift
 
 
 
