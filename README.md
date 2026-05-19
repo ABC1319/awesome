@@ -142,7 +142,7 @@ github开源优质项目
 
 ---
 
-[GitHub](https://github.com/ABC1319) | [站点提交](https://github.com/ABC1319//awesome/issues/new/choose) | [站点反馈](https://github.com/ABC1319//awesome/issues/new/choose)
+[GitHub](https://github.com/ABC1319) | [站点提交](https://github.com/ABC1319/awesome/issues/new/choose) | [站点反馈](https://github.com/ABC1319/awesome/issues/new/choose)
 
 
 > 最后更新: 2026-05-19 15:35:07
