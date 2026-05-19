@@ -37,24 +37,24 @@ github开源优质项目
     </tr> 
         <tr>
         <td>3</td>
-        <td><a href="https://github.com/spider-ios/autox-release" target="_blank">自媒体运营助手</a></td>
-        <td>网页自动化工具，油管等视频下载，一键搬家，视频多平台发布，一键发布到tiktok、小红书、快手、抖音、油管、B站等等平台，一个功能强大的自媒体运营工具，一键发布视频到多平台（快手、YouTube、小红书、美拍、哔哩哔哩等） 欢迎入群交流！</td>
+        <td><a href="https://github.com/qiutongxue/oba-live-tool" target="_blank">oba-live-tool</a></td>
+        <td>直播带货工具，支持平台：抖音小店、巨量百应、抖音团购、小红书、视频号、快手小店、淘宝</td>
         <td></td>
-        <td><a href="https://github.com/spider-ios/autox-release" target="_blank">🔗</a></td>
+        <td><a href="https://github.com/qiutongxue/oba-live-tool" target="_blank">🔗</a></td>
     </tr> 
         <tr>
         <td>4</td>
-        <td><a href="https://github.com/spider-ios/autox-release" target="_blank">自媒体运营助手</a></td>
-        <td>网页自动化工具，油管等视频下载，一键搬家，视频多平台发布，一键发布到tiktok、小红书、快手、抖音、油管、B站等等平台，一个功能强大的自媒体运营工具，一键发布视频到多平台（快手、YouTube、小红书、美拍、哔哩哔哩等） 欢迎入群交流！</td>
+        <td><a href="https://github.com/rcy1314?page=3&tab=repositories" target="_blank">noise</a></td>
+        <td>noise导航作者主页</td>
         <td></td>
-        <td><a href="https://github.com/spider-ios/autox-release" target="_blank">🔗</a></td>
+        <td><a href="https://github.com/rcy1314?page=3&tab=repositories" target="_blank">🔗</a></td>
     </tr>   
         <tr>
         <td>5</td>
-        <td><a href="https://github.com/spider-ios/autox-release" target="_blank">自媒体运营助手</a></td>
-        <td>网页自动化工具，油管等视频下载，一键搬家，视频多平台发布，一键发布到tiktok、小红书、快手、抖音、油管、B站等等平台，一个功能强大的自媒体运营工具，一键发布视频到多平台（快手、YouTube、小红书、美拍、哔哩哔哩等） 欢迎入群交流！</td>
+        <td><a href="https://github.com/unilei/aipan-netdisk-search" target="_blank">爱盼网盘资源搜索</a></td>
+        <td>爱盼网盘资源搜索源码</td>
         <td></td>
-        <td><a href="https://github.com/spider-ios/autox-release" target="_blank">🔗</a></td>
+        <td><a href="https://github.com/unilei/aipan-netdisk-search" target="_blank">🔗</a></td>
     </tr> 
 </table>
 
