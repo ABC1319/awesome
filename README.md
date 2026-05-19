@@ -14,7 +14,7 @@ github开源优质项目
 ## 热门
 
 <table> 
-    <tr>
+        <tr>
         <td>1</td>
         <td><img src="https://st2.ai55.cc/site-icons/27fbeb65020636b57ac284f270fd6bb7d6aef78a2198edc81a62242d0e6bf922.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://github.com/spider-ios/autox-release" target="_blank">自媒体运营助手</a></td>
@@ -23,7 +23,7 @@ github开源优质项目
         <td><a href="https://github.com/spider-ios/autox-release" target="_blank">🔗</a></td>
     </tr> 
     
-    <tr>
+        <tr>
         <td>1</td>
         <td><img src="https://st2.ai55.cc/site-icons/27fbeb65020636b57ac284f270fd6bb7d6aef78a2198edc81a62242d0e6bf922.webp" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
         <td><a href="https://github.com/spider-ios/autox-release" target="_blank">自媒体运营助手</a></td>
